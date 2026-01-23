@@ -1,1 +1,1 @@
-All about javascript
+Javascript all about
